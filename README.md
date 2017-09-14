@@ -1,4 +1,6 @@
 
+######################################原作者信息######################################
+
 ## 联系方式
 
    QQ ：30024167 / 81001985
@@ -61,13 +63,3 @@ http://www.thinkphp.cn/code/2220.html
 为了提高web交互的友好度，所有操作 是基于ajax实现（包括 表单验证 添加 搜索 提示...）
 
 
-
-<img src="http://www.thinkphp.cn/Uploads/editor/2016-08-07/57a695e0db90c.png">
-
-
-<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f29a96f.png">
-
-
-<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f507742.png">
-
-<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f859105.png">
