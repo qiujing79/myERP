@@ -1,0 +1,6 @@
+[ 2017-09-14T10:48:13+08:00 ] 127.0.0.1 /index.php/Login/login
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2017-09-14T11:18:58+08:00 ] 127.0.0.1 /index.php/Login/login
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
